@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body{width:1000px;margin:0 auto;background:#64BDF3;}
+#d1{width:1000px;height:350px;}
+	#d2{width:180px;position: absolute;top:220px;left:500px;transition: all 0.5s ease}
+	#d2:hover{width:240px;}
+#nav ul{height:60px;background:#0773CF;list-style: none;}
+/*	#nav li{display: inline-block;width:150px;text-align: center;line-height: 60px;}*/
+	#nav li{display: inline-block;width: 230px;text-align: center;line-height: 60px;font-weight: bolder;font-size:20px;color: #000000}
+#footer{width:1000px;background:#0773CF;height: 90px;line-height: 40px;text-align:center;font-weight: bolder;}
